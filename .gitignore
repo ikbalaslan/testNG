@@ -1,0 +1,7 @@
+/target/*
+/.idea/*
+/test-output/*
+/src/recources/*
+
+/.idea/
+/src/main/
