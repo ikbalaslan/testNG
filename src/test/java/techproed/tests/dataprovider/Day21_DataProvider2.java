@@ -18,6 +18,7 @@ public class Day21_DataProvider2 {
         Object [][] customerCredentials = {
                 {"sam.walker@bluerentalcars.com","c!fas_art"},
                 {"kate.brown@bluerentalcars.com","tad1$Fas"},
+                {"raj.khan@bluerentalcars.com","v7Hg_va^"},
                 {"pam.raymond@bluerentalcars.com","Nga^g6!"}
         };
         return customerCredentials;
