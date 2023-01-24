@@ -16,4 +16,6 @@ public class LoginPage {
     public WebElement passwordLink;
     @FindBy(xpath = "//button[.=' Login']")
     public WebElement buttonLink;
+    @FindBy(xpath = "//div[@role='alert']")
+    public WebElement errorMessage_incorrectEmailPass;
 }
